@@ -5,7 +5,7 @@ I'm Adrian Scott
 - 🔭 I’m currently working on Machine Learning, LLMs, A.I.-augmented coding tools, A.I. apps for creativity and community
 - I have a doctorage in Mathematics, which applied nonlinear optimization and Bayes Theorem to biology challenges
 - This Github profile doesn't show most of the code that I do, which is decentralized across multiple profiles & providers (not just Github), or is private
-- The heatmap isn't reflective of my volume or activity levels. In addition to coding across multiple profiles & providers, the heatmap doesn't show commits to projects I've forked
+- The heatmap isn't reflective of my volume or activity levels. In addition to coding across multiple profiles & providers, the heatmap doesn't show commits in projects I've forked & extended
 - 📫 How to reach me: email: firstname at firstname lastname dot com
 - ⚡ Fun fact: Besides tech stuff, I've sung w/ Placido Domingo, performed with the New York City Ballet and acted in several films, including a scene with Robert De Niro.
 
