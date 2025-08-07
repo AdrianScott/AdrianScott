@@ -2,7 +2,7 @@
 
 I'm Adrian Scott
 
-- 🔭 I’m currently working on Machine Learning, LLMs, A.I.-augmented coding tools, A.I. apps for creativity and community, see disttraintest for distributed training example and adamwtest for an experimental optimizer test
+- 🔭 I’m currently working on Machine Learning, LLMs, distributed training, A.I.-augmented coding tools, A.I. apps for creativity and community, see disttraintest for distributed training example and adamwtest for an experimental optimizer test
 - I have a doctorate in Mathematics, which applied nonlinear optimization and Bayes Theorem to biology challenges
 - This Github profile doesn't show most of the code that I do, which is decentralized across multiple profiles & providers (not just Github), or is private
 - The heatmap isn't reflective of my volume or activity levels. In addition to coding across multiple profiles & providers, the heatmap doesn't show commits in projects I've forked & extended
