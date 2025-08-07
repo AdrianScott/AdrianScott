@@ -4,7 +4,7 @@ I'm Adrian Scott
 
 - 🔭 I’m currently working on Machine Learning, LLMs, distributed training, A.I.-augmented coding tools, A.I. apps for creativity and community, see disttraintest for distributed training example and adamwtest for an experimental optimizer test
 - My PhD is in Mathematics, which applied nonlinear optimization and Bayes Theorem to biology challenges
-- A bunch of my projects are listed at [iShipCode.com](https://iShipCode.com)
+- A bunch of my projects are listed at [iShipCode.com](https://iShipCode.com){:target="_blank"}
 
 Note:
 - This Github profile doesn't show most of the code that I do, which is decentralized across multiple profiles & providers (not just Github), or is private
